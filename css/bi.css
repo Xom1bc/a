@@ -97,10 +97,3 @@ footer a:hover{
     padding: 80px 0 40px;
     box-sizing:border-box;
 }
-
-.comments {
-	min-height: 100vh;
-    margin: -80px 0 -40px;
-    padding: 80px 0 40px;
-    box-sizing:border-box;
-}
